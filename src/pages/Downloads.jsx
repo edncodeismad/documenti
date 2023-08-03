@@ -1,10 +1,10 @@
 import React from "react";
-import FILE from '../files/file.pdf';
+import FILE from '../files/guida.pdf';
 
 function Downloads() {
     return (
         <div>
-            <a href={FILE} target="_blank"><p>DOCUMENTO</p></a>
+            <a class="doc-link" href={FILE} ><p>Guida d'uso</p></a>
         </div>
     )
 }
