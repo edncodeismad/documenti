@@ -1,5 +1,6 @@
 import React from "react";
 import FILE from '../files/guida.pdf';
+import './Downloads.css';
 
 function Downloads() {
     return (
