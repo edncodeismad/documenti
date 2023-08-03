@@ -5,7 +5,7 @@ import Downloads from './pages/Downloads';
 function App() {
   return (
     <div className="App">
-      <h1>PDF Archive</h1>
+      <h1>Archivio PDF</h1>
       <Downloads/>
     </div>
   );
