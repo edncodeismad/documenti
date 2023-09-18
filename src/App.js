@@ -23,6 +23,11 @@ import img20 from './immagini/img20.png';
 import img21 from './immagini/img21.png';
 import img22 from './immagini/img22.png';
 
+import img23 from './immagini/img23.png';
+import img24 from './immagini/img24.png';
+import img25 from './immagini/img25.png';
+import img26 from './immagini/img26.png';
+
 
 function App() {
   return (
@@ -50,6 +55,10 @@ function App() {
       <img src={img20}/>
       <img src={img21}/>
       <img src={img22}/>
+      <img src={img23}/>
+      <img src={img24}/>
+      <img src={img25}/>
+      <img src={img26}/>
     </div>
   );
 }
