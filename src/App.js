@@ -28,6 +28,15 @@ import img24 from './immagini/img24.png';
 import img25 from './immagini/img25.png';
 import img26 from './immagini/img26.png';
 
+import img27 from './immagini/img26.png';
+import img28 from './immagini/img26.png';
+import img29 from './immagini/img26.png';
+import img30 from './immagini/img26.png';
+import img31 from './immagini/img26.png';
+import img32 from './immagini/img26.png';
+import img33 from './immagini/img26.png';
+import img34 from './immagini/img26.png';
+
 
 function App() {
   return (
@@ -59,6 +68,14 @@ function App() {
       <img src={img24}/>
       <img src={img25}/>
       <img src={img26}/>
+      <img src={img27}/>
+      <img src={img28}/>
+      <img src={img29}/>
+      <img src={img30}/>
+      <img src={img31}/>
+      <img src={img32}/>
+      <img src={img33}/>
+      <img src={img34}/>
     </div>
   );
 }
