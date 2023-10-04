@@ -28,14 +28,14 @@ import img24 from './immagini/img24.png';
 import img25 from './immagini/img25.png';
 import img26 from './immagini/img26.png';
 
-import img27 from './immagini/img26.png';
-import img28 from './immagini/img26.png';
-import img29 from './immagini/img26.png';
-import img30 from './immagini/img26.png';
-import img31 from './immagini/img26.png';
-import img32 from './immagini/img26.png';
-import img33 from './immagini/img26.png';
-import img34 from './immagini/img26.png';
+import img27 from './immagini/img27.png';
+import img28 from './immagini/img28.png';
+import img29 from './immagini/img29.png';
+import img30 from './immagini/img30.png';
+import img31 from './immagini/img31.png';
+import img32 from './immagini/img32.png';
+import img33 from './immagini/img33.png';
+import img34 from './immagini/img34.png';
 
 
 function App() {
